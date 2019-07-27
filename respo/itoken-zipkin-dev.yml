@@ -4,7 +4,7 @@ spring:
   boot:
     admin:
       client:
-        url:http://39.106.24.18:8084
+        url: http://39.106.24.18:8084
   zipkin:
     base-url: http://39.106.24.18:9411
 
